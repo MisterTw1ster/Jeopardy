@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/mainFragment"
-        android:name="com.example.jeopardy.screen.MainFragment"
+        android:name="com.example.jeopardy.presentation.screen.MainFragment"
         android:label="fragment_main"
         tools:layout="@layout/fragment_main" >
         <action
@@ -16,7 +16,7 @@
     </fragment>
     <fragment
         android:id="@+id/gameScreenFragment"
-        android:name="com.example.jeopardy.screen.GameScreenFragment"
+        android:name="com.example.jeopardy.presentation.screen.GameScreenFragment"
         android:label="fragment_game_screen"
         tools:layout="@layout/fragment_game_screen" />
 </navigation>

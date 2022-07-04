@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "18647417769",
+    "firebase_url": "https://jeopardy-f4dba-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "jeopardy-f4dba",
+    "storage_bucket": "jeopardy-f4dba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18647417769:android:9958d71ccaa9317885fab8",
+        "android_client_info": {
+          "package_name": "com.example.jeopardy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18647417769-a24bcl6rnlu3kfo7gcggv9d829csfiuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfJPn9b2PypuNhaWxPEl8LlKyBAZ9nIKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18647417769-a24bcl6rnlu3kfo7gcggv9d829csfiuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18647417769:android:be2d1c38c181f82a85fab8",
+        "android_client_info": {
+          "package_name": "com.example.jeopardy.presentation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18647417769-s1r50qldqn0e125srnds51pio24amfb2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jeopardy.presentation",
+            "certificate_hash": "2f754a2c1026e6ab91a3bae2faa3f073f51f29f2"
+          }
+        },
+        {
+          "client_id": "18647417769-a24bcl6rnlu3kfo7gcggv9d829csfiuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfJPn9b2PypuNhaWxPEl8LlKyBAZ9nIKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18647417769-a24bcl6rnlu3kfo7gcggv9d829csfiuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

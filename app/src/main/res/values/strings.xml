@@ -2,4 +2,8 @@
     <string name="app_name">Jeopardy</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="multiplayerGame">Играть по сети</string>
+    <string name="singleplayerGame">Однопо́льзовательская игра</string>
+    <string name="addQuestions">Добавить вопросы</string>
+    <string name="changeQuestions">Изменить вопросы</string>
 </resources>
