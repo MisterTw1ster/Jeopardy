@@ -13,10 +13,27 @@
         <action
             android:id="@+id/action_mainFragment_to_gameScreenFragment"
             app:destination="@id/gameScreenFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_selectSectionFragment"
+            app:destination="@id/selectSectionFragment" />
     </fragment>
     <fragment
         android:id="@+id/gameScreenFragment"
         android:name="com.example.jeopardy.presentation.screen.GameScreenFragment"
         android:label="fragment_game_screen"
         tools:layout="@layout/fragment_game_screen" />
+    <fragment
+        android:id="@+id/addQuestionsFragment"
+        android:name="com.example.jeopardy.presentation.screen.addQuestionsFragment"
+        android:label="fragment_add_questions"
+        tools:layout="@layout/fragment_add_questions" />
+    <fragment
+        android:id="@+id/selectSectionFragment"
+        android:name="com.example.jeopardy.presentation.screen.SelectSectionFragment"
+        android:label="fragment_select_section"
+        tools:layout="@layout/fragment_select_section" >
+        <action
+            android:id="@+id/action_selectSectionFragment_to_addQuestionsFragment"
+            app:destination="@id/addQuestionsFragment" />
+    </fragment>
 </navigation>

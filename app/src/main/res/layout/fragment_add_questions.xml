@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".presentation.screen.addQuestionsFragment"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/section"
+        android:hint="@string/sectionHint"
+        style="@style/regularEditText"/>
+
+    <EditText
+        android:id="@+id/theme"
+        android:hint="@string/themeHint"
+        style="@style/regularEditText"/>
+
+    <EditText
+        android:id="@+id/discriptionQuestion"
+        android:hint="@string/discriptionQuestionHint"
+        style="@style/regularEditText"/>
+
+    <EditText
+        android:id="@+id/complexityQuestion"
+        android:hint="@string/complexityQuestionHint"
+        style="@style/regularEditText"/>
+
+    <EditText
+        android:id="@+id/answerQuestion"
+        android:text="@string/answerQuestionHint"
+        style="@style/regularEditText"/>
+
+</LinearLayout>

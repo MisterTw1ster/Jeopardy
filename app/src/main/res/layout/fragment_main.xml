@@ -9,26 +9,22 @@
 
     <Button
         android:id="@+id/multiplayerGame"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        style="@style/regularButton"
         android:text="@string/multiplayerGame"/>
 
     <Button
         android:id="@+id/singleplayerGame"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        style="@style/regularButton"
         android:text="@string/singleplayerGame"/>
 
     <Button
         android:id="@+id/addQuestions"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        style="@style/regularButton"
         android:text="@string/addQuestions"/>
 
     <Button
         android:id="@+id/changeQuestions"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        style="@style/regularButton"
         android:text="@string/changeQuestions"/>
 
 </LinearLayout>

@@ -6,4 +6,9 @@
     <string name="singleplayerGame">Однопо́льзовательская игра</string>
     <string name="addQuestions">Добавить вопросы</string>
     <string name="changeQuestions">Изменить вопросы</string>
+    <string name="sectionHint">раздел</string>
+    <string name="themeHint">тема</string>
+    <string name="discriptionQuestionHint">вопрос</string>
+    <string name="complexityQuestionHint">сложность</string>
+    <string name="answerQuestionHint">ответ</string>
 </resources>
